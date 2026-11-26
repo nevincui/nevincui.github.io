@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cuinevin-collab.github.io/sitemap.xml
+Sitemap: https://nevincui.github.io/sitemap.xml
